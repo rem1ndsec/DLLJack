@@ -13,6 +13,9 @@ CleanHijacks removes all persistence.
 DLLJack -Appname Onedrive -DLLPath c:\payload.dll  
 CleanHijacks
 
-## ToDo
+## Known Issues
+Reported issues of Onedrive hijack not working
+
+## Todo
 More applications  
 Add Com Hijacks
